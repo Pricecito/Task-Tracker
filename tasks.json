@@ -1,0 +1,51 @@
+[
+  {
+    "description": "mi nueva tarea",
+    "updateAt": "2025-06-28",
+    "id": 2,
+    "createAt": "2025-06-28",
+    "status": "to-do"
+  },
+  {
+    "description": "mi tarea XD",
+    "updateAt": "2025-06-28",
+    "id": 3,
+    "createAt": "2025-06-28",
+    "status": "in-progress"
+  },
+  {
+    "description": "Tarea 4 Actualizada",
+    "updateAt": "2025-06-28",
+    "id": 4,
+    "createAt": "2025-06-28",
+    "status": "to-do"
+  },
+  {
+    "description": "\"AYUDA\"",
+    "updateAt": "",
+    "id": 5,
+    "createAt": "2025-06-28",
+    "status": "to-do"
+  },
+  {
+    "description": " Esta es mi tarea de ejemplo",
+    "updateAt": "",
+    "id": 6,
+    "createAt": "2025-06-28",
+    "status": "to-do"
+  },
+  {
+    "description": " Tarea",
+    "updateAt": "",
+    "id": 7,
+    "createAt": "2025-06-28",
+    "status": "to-do"
+  },
+  {
+    "description": " HelpMe",
+    "updateAt": "2025-06-28",
+    "id": 8,
+    "createAt": "2025-06-28",
+    "status": "done"
+  }
+]
